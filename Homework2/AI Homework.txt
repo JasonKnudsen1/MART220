@@ -1,0 +1,59 @@
+Instructions
+Choose one sci-fi video game
+Planetside 2
+
+
+Describe the game (1 short paragraph)
+
+
+What is the setting?
+
+
+What makes it science fiction?
+
+
+What role does the player take in the world?
+Planetside 2 is a sci-fi MMOFPS released on November 20, 2012. In it, you take on the role of a soldier on the planet Auraxis, as a member of one of three factions as they vie for control: the autocratic Terran Republic, the corporatist New Conglomerate, and the theocratic Vanu Sovereignty. Set in the far future, these soldiers and factions are trapped on the far end of a wormhole from our local system that collapsed, forcing them to survive on this mysterious planet on the other side. As a diehard Vanu Sovereignty player, my internal biases, could and intentionally will color my descriptions of the factions and their dynamics; but to predicate this, I should clearly state that each faction has a unique identity that plenty of players find interesting and engaging.
+Analyze the visual and media elements
+ In 2–3 paragraphs, discuss:
+
+
+Visual style (futuristic cities, space, technology, UI, color, lighting)
+
+
+Sound or music and how it supports the sci-fi atmosphere
+
+
+How interactivity (player choice, exploration, combat, dialogue) enhances immersion
+As the second game in the series, Planetside 2 features a significant visual overhaul compared to its predecessor. Each faction bears a unique visual motif that reinforces their narrative and culture: the Terran Republic (red and black) is efficient and bold, the New Conglomerate (blue and yellow) is utilitarian and bulky, the Vanu Sovereignty (purple and cyan) are mysterious and alien. Your choice of faction determines your allies, facilities, and equipment, though on all those fronts there is a fourth, neutral faction providing infrastructure to all the others: Nanite Systems, or NS for short. 
+Player choice comes not so much from a narrative angle, as much as the way you engage with your one sole directive: work with your hundreds of allies, and defeat your hundreds of opponents. Be it on foot, in aircraft, tanks, naval vessels… there’s a vast amount of ways to fight the other factions. Within each choice (what tank you pilot, what class of infantry you are, etc.) there’s even further modularity in choice of weapons, passive systems, and equipment modifications. This, alongside the variety of continents (yes, continents, not single-facility maps) offers a significant amount of player autonomy in a game that would otherwise feel rather one-dimensional, given its simple, almost arena-shooter-esque gameplay loop: get to a facility, set up logistics, play king of the hill until you capture it or lose your spawn points, rinse and repeat.
+The music is another noteworthy portion of the game, as three distinct soundtracks were composed, only one of which will play depending on which faction you chose. For the Terran Republic, the music is grand, militaristic, dutiful, with swelling orchestras and rolling drums; you’re part of something greater than yourself. For the New Conglomerate, a western-rock twang accentuates the hyper-individualist nature of its members, while also hinting at some of the white-washed corruption at the highest rungs of the ladder. For the Vanu Sovereignty, there’s a primal, choral vocal motif that’s contrasted by sharp futuristic synths, depicting the spiritualism alongside the barely-understood, hyper-advanced alien tech they’ve adopted into their lives.
+Connect to MART 220 concepts
+ Answer at least two of the following:
+
+
+How does the game function as a form of digital or media art?
+
+
+How does technology shape storytelling in the game?
+
+
+How does the game reflect real-world hopes or fears about the future (AI, space travel, cybernetics, corporations, etc.)?
+To bring this subject into MART 220 terms, there’s some good, some bad, and some ugly:
+For the good, there’s staggeringly impressive networking techniques that keep something as detailed as infantry gunplay feeling smooth and well-connected, even when there’s one, two, or even three hundred players at the same location. It’s frankly an awe-inspiring merger of technology and art to behold that many players, all with their own squads and platoons and ambitions and objectives, divided into three factions that are all struggling to capture or defend a facility. I’ve made fantastic friendships that have lasted through my teens into my mid-twenties in Planetside 2 squads. - In-game footage of a facility assault -
+For the bad, there’s some fundamental design flaws in the core gameplay. Because individual power scales are so widely varying (you can be a dude with a handgun, or piloting a low-orbit destroyer), a lot of encounters can feel like binary fail states: either you’re able to address a problem, or it immediately kills you. This issue is mitigated by player numbers, as the sheer probability of somebody having countermeasures or counter-countermeasures increases with population. It’s less likely your team is unable to deal with an enemy aircraft if there’s 100 teammates rather than 10, as that’s ten times the chances for somebody to have equipped anti-aircraft countermeasures. That, however, plays into the next point…
+For the ugly, the game is dying, its IP has been sold nearly (if not more than) half a dozen times, and its current development team is neglectful at best, and incompetent at worst. Sweeping changes to a game ecosystem that’s over a decade in the making are enacted as a kneejerk response to loud criticism, even if it’s not informed or a majority sentiment. I personally enjoyed the game through many ups and downs, but have recently uninstalled it and don’t really plan to play it anymore after my favorite infantry class, Infiltrators, received a series of changes that fundamentally altered the way they’ve been played for the game’s entire lifetime, and significantly reduced their effectiveness and quality of gameplay.
+
+
+Personal reflection (1 paragraph)
+
+
+Why does this sci-fi game interest you personally?
+
+
+How does it shape the way you think about the future, technology, or digital worlds?
+
+
+Planetside 2 interests me for a mixture of nostalgia, technical brilliance, and, unfortunately, a simple lack of competitors in the market. It truly is the only game of its scale, direction, and identity, with other “competitors” like the Battlefield series or Delta Force not really being a comparison at all. The appeal of Planetside 2 is its massive, open world; you don’t load up a “match” with 5 or 10 or 20 other players on each team, divorced from a larger sense of community or camaraderie or purpose. You’re quite literally on a continent, with no hard-defined location or facility that you have to be at, that will inevitably see one of the three factions as its victor, for a time. I might see a two-hundred person encounter at a central location, and fly a transport ship to an adjacent facility to draw a portion of the enemy population away into a smaller skirmish, which might give the Vanu Sovereignty the tactical edge it needs to win the larger fight.
+Unfortunately, it’s in an undeniable state of decay. As the hemorrhaging playerbase steadily declines, the game loses its identity; the massive open world becomes a wasteland and an obstacle, rather than a wide board of choices. Planetside 2 has been a labor of love under previous management, but it seems the sentiment behind its current owners/developers is slightly more pragmatic, or even opportunistic. This could spell out a revival of the game under better circumstances, but as Professor Cassens always warns about, nobody notated their work, which has rendered the core code for the game nearly inscrutable and untouchable. This results in any of the new owners’ brash, gung-ho swings at improving the game causing more bugs than they can squash, some of which make the game entirely unplayable for days or months at a time.
+

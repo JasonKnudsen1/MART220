@@ -1,0 +1,12 @@
+Creative differences: How do your choices differ from the AI’s?
+My choices differed from AI’s mainly in limited experience with p5.js. It was fun to learn, but I feel like I could challenge myself in a few new ways next time.
+
+Representation: How does a coded visual portrait compare to a text-generated output?
+It’s interesting seeing the dichotomy. My work is, undeniably, less clean than the AI’s. Though, there’s something I’ve noticed anecdotally, and that’s the value in imperfections in art, in this age of AI abuse.
+
+Style: Is your sketch more abstract, realistic, or playful than the AI’s idea?
+To be frank, the AI’s uses the tools better, but its end product looks like a corporate logo in the most derogatory sense.
+
+Interpretation: How do you each interpret the concept? This reflection demonstrates your ability to think critically about human creativity versus AI-generated concepts.
+
+We interpreted the prompt relatively similarly, which is interesting given how prone to tangents and misunderstanding I’ve found AI to be.
