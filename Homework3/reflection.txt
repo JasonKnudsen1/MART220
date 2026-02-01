@@ -1,0 +1,5 @@
+Reflection Paper
+
+Between my project and the alternate one I found on p5.js, I think mine is significantly more interactive, which is good! It's interesting, seeing the degree to which different people are able to manipulate p5js; I've seen examples of full orbiting bodies with spherical rotation cycles, though they required some pre-downloaded assets I couldn't access, hence why I didn't link those instead. 
+
+I'm rather averse to using AI to generate these, as I find AI's place is, at best, a supplementary tool to non-creative endeavors (iterative, repititious work like sample processing, random number generation, etc.), and has no place in the creative field. So instead, it's much more engaging to find the creative works that others are making, which are being stolen for parts and burned as the fuel in these soulless learning models.
