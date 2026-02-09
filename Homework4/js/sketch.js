@@ -1,4 +1,4 @@
-/*
+
 var s = 83;
 var w = 87;
 var a = 65;
@@ -164,8 +164,10 @@ function PlayerMove() {
         y = 25;
     }
 }
-*/
 
+
+
+/*
 
 var s = 83;
 var w = 87;
@@ -277,3 +279,4 @@ function GoblinMove() {
     }
 
 }
+    */
