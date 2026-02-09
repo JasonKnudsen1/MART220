@@ -1,0 +1,11 @@
+-- Reflection Paper Homework 4 --
+-- Which Generative AI image model or External Resource did you use? --
+I googled for AI generated images of hamburgers. I didn't want to generate one myself for ethical reasons.
+-- Why did you choose that specific one? --
+It looked like the most obvious AI slop at a quick glance, which I thought would add to the comedic effect of it being stretched at improper resolution ratios to cover the planet.
+-- What was your prompt/query like to find it? --
+Quoted directly from my google search history: "ai generated hamburger".
+ -- Was the image what you expected? Why or why not? --
+It was. AI imagery is a catch-22 in its quality; if it's bad looking, it doesn't really have a place in any non-ironic, meta-commentative works. If it's good looking, it was built on the backs of creators of quality art being robbed of their intellectual property, so why include the thieving middle man? The answer that's commonly cited is "time" or "convenience," but that's a self-fulfilling prophecy in many markets. Convenience is produced and perpetuated by the infrastructure surrounding assets, so if we see, say, a multi-billion dollar push for "convenience" and "public accessibility" from AI generation, of course it's going to feel pretty convenient... while the money lasts. I have a sneaking suspicion that the instant speculative investment dries up for most LLMs, and some sort of pay-to-partake model like a monthly subscription is made mandatory, we're going to see the amount of AI use plummet dramatically. It's the UberEats dilemma all over again. A market is cornered and commodified, then when the heat turns up, we as the consumers end up paying more than before, for worse products or services than before.
+-- How did the image contribute to your overall project? --
+It was funny, in that "it's rediculous we've gotten to this point" kind of way. It's... a hamburger, but worse. The bun transmutates into cheese. The lighting makes everything look plastic. It's a mess.
