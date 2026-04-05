@@ -80,7 +80,7 @@ function drawCyclinder() {
     specularMaterial(150,20,200);
     shininess(50);
     translate(-50, 100);
-    rotateX(frameCount * 0.01);
+    rotateX(frameCount * 0.05);
     rotateZ(frameCount * 0.01);
     //texture(img);
     cylinder(20, 50, 24, 16, false, false);
@@ -91,7 +91,7 @@ function drawSphere() {
     normalMaterial();
     translate(-100, -100, 300);
     rotateX(frameCount * 0.01);
-    rotateY(frameCount * 0.01);
+    rotateY(frameCount * 0.02);
     sphere(24);
     pop();
 }
@@ -106,7 +106,7 @@ function drawBox(size, translateX, translateY, translateZ, img) {
     translate(translateX, translateY, translateZ);
     rotateY(PI/4 * .01 * frameCount);
    
-     rotateX(frameCount * 0.01);
+     rotateZ(frameCount * 0.01);
    // rotateY(frameCount * 0.02);
     box(size);
   pop(); 
@@ -117,7 +117,7 @@ function drawTorus() {
     push();
     ambientMaterial(0,255,2550);
     translate(150, 20, -301);
-        rotateX(frameCount * 0.01);
+        rotateZ(frameCount * 0.01);
     rotateY(frameCount * 0.01);
     torus(50, 20);
     pop();
