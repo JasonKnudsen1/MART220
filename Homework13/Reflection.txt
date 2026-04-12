@@ -1,0 +1,5 @@
+Overall pretty straightforward, thankfully! The orbiting was a bit complex, but some googling sorted it out just fine. I mainly wanted to avoid dragging trig into the equation.
+I'm feeling like this is all pretty intuitive, but I'm worried things are going to explode in complexity in a way that might be tricky to keep up with.
+
+Oh, I sent a message last week but in case you didn't see it, I DID have a reflection for last week's assignment, it was just commented out at the top of the sketch js file.
+If there's a chance I could get those 20 points back, it might well be the make-or-break for an A in this class. Thanks!
